@@ -1,8 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+   {plane: 's-1', pilot: 'Aron Davis', status: 'Retired', flights: 2}, 
+  {plane: 'f-1', pilot: 'Garven Dresis', status: 'Active', flights: 10}, 
+  {plane: '6-t', pilot: 'David JP', status: 'Retired', flights: 9},
+  {plane: '9-t', pilot: 'Boss', status: 'Active', flights: 3}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
